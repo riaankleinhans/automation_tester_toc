@@ -20,7 +20,7 @@ Containers, OS, Runtime, Virtual Machines, Serverless, Web Assembly, Batch, Sche
 ## Contact
 - Slack: [Tag TAG Workloads Foundation Slack](https://cloud-native.slack.com/archives/https://cloud-native.slack.com/archives/C08K71W9HAS)
 - [Mailing List](https://lists.cncf.io/g/cncf-tag-workloads-foundation)
-- TOC Liaison: Foo Bar (**[@foobar](https://github.com/foobar)**)
+- TOC Liaison:  (**[@](https://github.com/)**)
 
 ## Subprojects
 - **Workloads Foundation-sub-foo**: [Mailing List](https://lists.cncf.io/g/cncf-tag-workloads-foundation)

@@ -20,7 +20,7 @@ Observability, Management, Business Continuity, Resource Optimization, Cost Effi
 ## Contact
 - Slack: [Tag TAG Operational Resilience Slack](https://cloud-native.slack.com/archives/https://cloud-native.slack.com/archives/C08KGDENK34)
 - [Mailing List](https://lists.cncf.io/g/cncf-tag-operational-resilience)
-- TOC Liaison: Foo Bar (**[@foobar](https://github.com/foobar)**)
+- TOC Liaison:  (**[@](https://github.com/)**)
 
 ## Subprojects
 - **Operational Resilience-sub-foo**: [Mailing List](https://lists.cncf.io/g/cncf-tag-operational-resilience)

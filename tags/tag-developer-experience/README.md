@@ -8,7 +8,7 @@ Databases, Microservices, Streaming, Messaging, API Management, Dev Frameworks.
 
 ## Leadership
 ### Chairs
-- Foo Baz Bar (**[@foo](https://github.com/foo)**), Foo Baz Bar co
+- Foo Baz Bar (**[@test](https://github.com/test)**), Foo Baz Bar co
 - Foo Baz Bar (**[@foo](https://github.com/foo)**), Foo Baz Bar co.
 ### Tech Leads
 - Foo Baz Bar (**[@foo](https://github.com/foo)**), Foo Baz Bar co.
@@ -20,7 +20,7 @@ Databases, Microservices, Streaming, Messaging, API Management, Dev Frameworks.
 ## Contact
 - Slack: [Tag TAG Developer Experience Slack](https://cloud-native.slack.com/archives/https://cloud-native.slack.com/archives/C08KGCXB458)
 - [Mailing List](https://lists.cncf.io/g/cncf-tag-developer-experience/)
-- TOC Liaison: Foo Bar (**[@foobar](https://github.com/foobar)**)
+- TOC Liaison:  (**[@](https://github.com/)**)
 
 ## Subprojects
 - **Developer Experience-sub-foo**: [Mailing List](https://lists.cncf.io/g/cncf-tag-developer-experience/)
