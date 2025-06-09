@@ -7,7 +7,7 @@ tags: # Technical Advisory Groups
     label: tag-developer-experience
     leadership:
       chairs:
-        - github: foo
+        - github: test
           lfx_id: baz
           name: Foo Baz Bar
           company: Foo Baz Bar co
@@ -35,9 +35,9 @@ tags: # Technical Advisory Groups
     contact:
       slack: https://cloud-native.slack.com/archives/C08KGCXB458
       mailing_list: https://lists.cncf.io/g/cncf-tag-developer-experience/
-      toc_liaison:
-        - github: kgamanji
-        - name: Katie Gamanji
+      tocLiaisons:
+       - github: kgamanji
+         name: Katie Gamanji
     tag_subprojects:
       - name: Developer Experience-sub-foo
         mission_statement: >
@@ -89,10 +89,10 @@ tags: # Technical Advisory Groups
     contact:
       slack: https://cloud-native.slack.com/archives/C08KBH3RA1K
       mailing_list: https://lists.cncf.io/g/cncf-tag-infrastructure
-      toc_liaison:
+      tocLiaisons:
         - github: rochaporto
           name: Ricardo Rocha
-        - github: @angellk
+        - github: angellk
           name: Karena Angell
     tag_subprojects:
       - name: Infrastructure-sub-foo
@@ -144,7 +144,7 @@ tags: # Technical Advisory Groups
     contact:
       slack: https://cloud-native.slack.com/archives/C08KGDENK34
       mailing_list: https://lists.cncf.io/g/cncf-tag-operational-resilience
-      toc_liaison:
+      tocLiaisons:
         - github: jeremyrickard
           name: Jeremy Rickard
     tag_subprojects:
@@ -198,10 +198,10 @@ tags: # Technical Advisory Groups
     contact:
       slack: https://cloud-native.slack.com/archives/C08JZ9YLAA3
       mailing_list: https://lists.cncf.io/g/cncf-tag-security-and-compliance
-      toc_liaison:
+      tocLiaisons:
         - github: kfaseela
           name: Faseela K
-        - github: jeremyrickard 
+        - github: jeremyrickard
           name: Jeremy Rickard
     tag_subprojects:
       - name: Security and Compliance-sub-foo
@@ -253,10 +253,10 @@ tags: # Technical Advisory Groups
     contact:
       slack: https://cloud-native.slack.com/archives/C08K71W9HAS
       mailing_list: https://lists.cncf.io/g/cncf-tag-workloads-foundation
-      toc_liaison:
+      tocLiaisons:
         - github: chira001
           name: Alex Chircop
-        - github: kevin-wangzefeng 
+        - github: kevin-wangzefeng
           name: Kevin Wang
     tag_subprojects:
       - name: Workloads Foundation-sub-foo
@@ -274,17 +274,17 @@ tags: # Technical Advisory Groups
     tag_initiatives: https://github.com/cncf/toc/issues?q=label%3Atag%2Fworkloads-foundation-initiative
 toc_subprojects: # TOC SubProjects
   - dir: contributor-strategy-and-advocacy-subproject # Contributor Strategy and Advocacy Sub Project
-    name: Contributor Strategy and Advocacy SubProject 
+    name: Contributor Strategy and Advocacy SubProject
     mission_statement: Foo-Baz-Bar
     charter_link: charter.md
     label: contributor-strategy-and-advocacy-subproject
     leadership:
       chairs:
-        - github: 
-          lfx_id: 
+        - github:
+          lfx_id:
           name: The Contributor Strategy and Advocacy Subproject are lead by CNCF staff to support projects and contributors
-          company: 
-          email: 
+          company:
+          email:
   #     - github: foo
   #       lfx_id: baz
   #       name: Foo Baz Bar
@@ -308,7 +308,7 @@ toc_subprojects: # TOC SubProjects
     contact:
       slack: https://cloud-native.slack.com/archives/C08N4CKUHB2
       mailing_list: https://lists.cncf.io/g/contributor-strategy-subproject
-  #    toc_liaison:
+  #    tocLiaisons:
   #      - github: foobar
   #        name: Foo Bar
     subproject_initiatives: https://github.com/cncf/toc/issues?q=label%3Atoc%2Fcontributor-strategy-subproject-initiative
@@ -347,7 +347,7 @@ toc_subprojects: # TOC SubProjects
     contact:
       slack: https://cloud-native.slack.com/archives/CGPK98JNQ
       mailing_list: https://lists.cncf.io/g/tag-cs-mentoring-wg # to be updated with new name post kubecon
-  #    toc_liaison:
+  #    tocLiaisons:
   #      - github: foobar
   #        name: Foo Bar
     subproject_initiatives: https://github.com/cncf/toc/issues?q=label%3Atoc%2Fmentoring-subproject-initiative
@@ -386,7 +386,7 @@ toc_subprojects: # TOC SubProjects
     contact:
       slack: https://cloud-native.slack.com/archives/C08M8L74NAJ
       mailing_list: https://lists.cncf.io/g/cncf-project-reviews-subproject
- #     toc_liaison:
- #       github: 
- #       name: 
+ #     tocLiaisons:
+ #       github:
+ #       name:
     subproject_initiatives: https://github.com/cncf/toc/issues?q=label%3Atoc%2Fcontributor-strategy-subproject-initiative
