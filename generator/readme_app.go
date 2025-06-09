@@ -1,4 +1,3 @@
-
 package main
 
 import (
@@ -41,9 +40,9 @@ type Meeting struct {
 
 // Contact struct to hold contact information.
 type Contact struct {
-	Slack       string   `yaml:"slack"`
-	MailingList string   `yaml:"mailing_list"`
-	TOCLiaison  []Person `yaml:"toc_liaison"` // FIXED: Changed from 'Person' to '[]Person' to handle a list
+	Slack       string `yaml:"slack"`
+	MailingList string `yaml:"mailing_list"`
+	TOCLiaison  Person `yaml:"toc_liaison"`
 }
 
 // Tag struct to hold tag data, including CharterLink and Subprojects.
