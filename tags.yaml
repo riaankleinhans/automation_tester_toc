@@ -7,7 +7,7 @@ tags: # Technical Advisory Groups
     label: tag-developer-experience
     leadership:
       chairs:
-        - github: foo
+        - github: test
           lfx_id: baz
           name: Foo Baz Bar
           company: Foo Baz Bar co
