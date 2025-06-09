@@ -15,6 +15,6 @@ Foo-Baz-Bar
 ## Contact
 - Slack: [Tag Mentoring SubProject Slack](https://cloud-native.slack.com/archives/https://cloud-native.slack.com/archives/CGPK98JNQ)
 - [Mailing List](https://lists.cncf.io/g/tag-cs-mentoring-wg)
-- TOC Liaison:  (**[@](https://github.com/)**)
+- TOC Liaison: Foo Bar (**[@foobar](https://github.com/foobar)**)
 ## Initiatives
 [Mentoring SubProject Initiatives](https://github.com/cncf/toc/issues?q=label%3Atoc%2Fmentoring-subproject-initiative)

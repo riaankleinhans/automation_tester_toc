@@ -20,7 +20,7 @@ Data, Storage, Network, DNS, Compute, Service Mesh, Infrastructure-as-Code, Edge
 ## Contact
 - Slack: [Tag TAG Infrastructure Slack](https://cloud-native.slack.com/archives/https://cloud-native.slack.com/archives/C08KBH3RA1K)
 - [Mailing List](https://lists.cncf.io/g/cncf-tag-infrastructure)
-- TOC Liaison:  (**[@](https://github.com/)**)
+- TOC Liaison: Foo Bar (**[@foobar](https://github.com/foobar)**)
 
 ## Subprojects
 - **Infrastructure-sub-foo**: [Mailing List](https://lists.cncf.io/g/cncf-tag-infrastructure)
