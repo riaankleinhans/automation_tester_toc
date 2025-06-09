@@ -20,7 +20,8 @@ Security hygiene, Policy-as-code, Compliance, Auditing, Threat Modeling, Secure 
 ## Contact
 - Slack: [Tag TAG Security and Compliance Slack](https://cloud-native.slack.com/archives/https://cloud-native.slack.com/archives/C08JZ9YLAA3)
 - [Mailing List](https://lists.cncf.io/g/cncf-tag-security-and-compliance)
-- TOC Liaison: Foo Bar (**[@foobar](https://github.com/foobar)**)
+- TOC Liaison: Faseela K (**[@kfaseela](https://github.com/kfaseela)**)
+- TOC Liaison: Jeremy Rickard (**[@jeremyrickard](https://github.com/jeremyrickard)**)
 
 ## Subprojects
 - **Security and Compliance-sub-foo**: [Mailing List](https://lists.cncf.io/g/cncf-tag-security-and-compliance)

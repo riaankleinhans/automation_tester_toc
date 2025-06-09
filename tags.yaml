@@ -37,7 +37,7 @@ tags: # Technical Advisory Groups
       mailing_list: https://lists.cncf.io/g/cncf-tag-developer-experience/
       toc_liaison:
         - github: kgamanji
-        - name: Katie Gamanji
+          name: Katie Gamanji
     tag_subprojects:
       - name: Developer Experience-sub-foo
         mission_statement: >
@@ -387,6 +387,6 @@ toc_subprojects: # TOC SubProjects
       slack: https://cloud-native.slack.com/archives/C08M8L74NAJ
       mailing_list: https://lists.cncf.io/g/cncf-project-reviews-subproject
  #     toc_liaison:
- #       github: 
- #       name: 
+ #       - github: 
+ #         name: 
     subproject_initiatives: https://github.com/cncf/toc/issues?q=label%3Atoc%2Fcontributor-strategy-subproject-initiative
