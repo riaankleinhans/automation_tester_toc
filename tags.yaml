@@ -92,7 +92,7 @@ tags: # Technical Advisory Groups
       toc_liaison:
         - github: rochaporto
           name: Ricardo Rocha
-        - github: @angellk
+        - github: angellk
           name: Karena Angell
     tag_subprojects:
       - name: Infrastructure-sub-foo
