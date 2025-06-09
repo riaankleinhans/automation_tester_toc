@@ -8,7 +8,7 @@ tags: # Technical Advisory Groups
     leadership:
       chairs:
         - github: test
-          lfx_id: baz
+          lfx_id: test
           name: Foo Baz Bar
           company: Foo Baz Bar co
           email: me@foobazbar.org
