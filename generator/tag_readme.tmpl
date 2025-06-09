@@ -31,9 +31,9 @@
 - Slack: [Tag {{.Name}} Slack](https://cloud-native.slack.com/archives/{{.Contact.Slack}})
 - [Mailing List]({{.Contact.MailingList}})
 
-{{- if .Contact.TOCLiaisons }}
+{{- if .Contact.TOCLiaison }}
 ### TOC Liaisons
-{{- range .Contact.TOCLiaisons }}
+{{- range .Contact.TOCLiaison }}
 - {{.Name}} (**[@{{.GitHub}}](https://github.com/{{.GitHub}})**)
 {{- end }}
 {{- end }}
