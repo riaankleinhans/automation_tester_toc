@@ -12,11 +12,25 @@ tags: # Technical Advisory Groups
           name: Foo Baz Bar
           company: Foo Baz Bar co
           email: me@foobazbar.org
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
         - github: foo
           lfx_id: baz
           name: Foo Baz Bar
           company: Foo Baz Bar co.
           email: me@foobazbar.org
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
+        - github: newchair-dev-exp
+          lfx_id: newchair1
+          name: New Chair DevExp
+          company: Placeholder Inc.
+          email: newchair1@example.com
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
       tech_leads:
         - github: foo
           lfx_id: baz
@@ -66,11 +80,25 @@ tags: # Technical Advisory Groups
           name: Foo Baz Bar
           company: Foo Baz Bar co.
           email: me@foobazbar.org
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
         - github: foo
           lfx_id: baz
           name: Foo Baz Bar
           company: Foo Baz Bar co.
           email: me@foobazbar.org
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
+        - github: newchair-infra
+          lfx_id: newchair2
+          name: New Chair Infra
+          company: Placeholder Inc.
+          email: newchair2@example.com
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
       tech_leads:
         - github: foo
           lfx_id: baz
@@ -121,11 +149,25 @@ tags: # Technical Advisory Groups
           name: Foo Baz Bar
           company: Foo Baz Bar co.
           email: me@foobazbar.org
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
         - github: foo
           lfx_id: baz
           name: Foo Baz Bar
           company: Foo Baz Bar co.
           email: me@foobazbar.org
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
+        - github: newchair-ops
+          lfx_id: newchair3
+          name: New Chair Ops
+          company: Placeholder Inc.
+          email: newchair3@example.com
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
       tech_leads:
         - github: foo
           lfx_id: baz
@@ -175,11 +217,25 @@ tags: # Technical Advisory Groups
           name: Foo Baz Bar
           company: Foo Baz Bar co.
           email: me@foobazbar.org
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
         - github: foo
           lfx_id: baz
           name: Foo Baz Bar
           company: Foo Baz Bar co.
           email: me@foobazbar.org
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
+        - github: newchair-security
+          lfx_id: newchair4
+          name: New Chair Security
+          company: Placeholder Inc.
+          email: newchair4@example.com
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
       tech_leads:
         - github: foo
           lfx_id: baz
@@ -230,11 +286,25 @@ tags: # Technical Advisory Groups
           name: Foo Baz Bar
           company: Foo Baz Bar co.
           email: me@foobazbar.org
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
         - github: foo
           lfx_id: baz
           name: Foo Baz Bar
           company: Foo Baz Bar co.
           email: me@foobazbar.org
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
+        - github: newchair-workloads
+          lfx_id: newchair5
+          name: New Chair Workloads
+          company: Placeholder Inc.
+          email: newchair5@example.com
+          term:
+            start: "2025-07-01"
+            end: "2027-06-30"
       tech_leads:
         - github: foo
           lfx_id: baz
