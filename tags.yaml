@@ -112,7 +112,7 @@ tags: # Technical Advisory Groups
           email:
           term:
             start: "2025-07-01"
-            end: "2027-06-30"
+            end: "2026-06-30"
       tech_leads:
         - github: aojea
           lfx_id:
@@ -129,10 +129,10 @@ tags: # Technical Advisory Groups
           email:
           term:
             start: "2025-07-01"
-            end: "2027-06-30"
+            end: "2026-06-30"
         - github: hzxuzhonghu
           lfx_id:
-          name: Tiger Zhonghu Xu
+          name: Zhonghu Xu
           company:
           email:
           term:
@@ -344,7 +344,7 @@ tags: # Technical Advisory Groups
           email:
           term:
             start: "2025-07-01"
-            end: "2027-06-30"
+            end: "2026-06-30"
         - github: pacoxu
           lfx_id:
           name: Paco Xu
