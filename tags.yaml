@@ -22,7 +22,7 @@ tags: # Technical Advisory Groups
           email:
           term:
             start: "2025-07-01"
-            end: "2027-06-30"
+            end: "2026-06-30"
         - github: SwEngin
           lfx_id:
           name: Mona Borham
