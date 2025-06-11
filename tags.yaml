@@ -130,7 +130,7 @@ tags: # Technical Advisory Groups
           term:
             start: "2025-07-01"
             end: "2027-06-30"
-         - github: hzxuzhonghu
+        - github: hzxuzhonghu
           lfx_id:
           name: Tiger Zhonghu Xu
           company:
@@ -174,7 +174,7 @@ tags: # Technical Advisory Groups
       chairs:
         - github: mfahlandt
           lfx_id:
-          name: Mario Fahlandt 
+          name: Mario Fahlandt
           company:
           email:
           term:
@@ -188,7 +188,7 @@ tags: # Technical Advisory Groups
           term:
             start: "2025-07-01"
             end: "2026-06-30"
-        - github: saiyam1814 
+        - github: saiyam1814
           lfx_id:
           name: Saiyam Pathak
           company:
@@ -197,9 +197,9 @@ tags: # Technical Advisory Groups
             start: "2025-07-01"
             end: "2027-06-30"
       tech_leads:
-        - github: raffaelespazzoli 
+        - github: raffaelespazzoli
           lfx_id:
-          name:  Raffaele Spazzoli
+          name: Raffaele Spazzoli
           company:
           email:
           term:
@@ -256,21 +256,21 @@ tags: # Technical Advisory Groups
       chairs:
         - github: eddie-knight
           lfx_id:
-          name:  Eddie Knight
+          name: Eddie Knight
           company:
           email:
           term:
             start: "2025-07-01"
             end: "2026-06-30"
         - github: evankanderson
-          lfx_id: 
+          lfx_id:
           name: Evan Anderson
           company:
           email:
           term:
             start: "2025-07-01"
             end: "2026-06-30"
-        - github: mnm678 
+        - github: mnm678
           lfx_id:
           name: Marina Moore
           company:
@@ -278,7 +278,7 @@ tags: # Technical Advisory Groups
           term:
             start: "2025-07-01"
             end: "2027-06-30"
-      tech_leads: 
+      tech_leads:
         - github: jpower432
           lfx_id:
           name: Jennifer Power
@@ -335,7 +335,7 @@ tags: # Technical Advisory Groups
       Containers, OS, Runtime, Virtual Machines, Serverless, Web Assembly, Batch, Scheduler, Orchestrator, Deployment, Dynamic Scaling, CI/CD
     charter_link: charter.md
     label: tag-workloads-foundation
-    leadership:  
+    leadership:
       chairs:
         - github: miao0miao
           lfx_id:
@@ -347,7 +347,7 @@ tags: # Technical Advisory Groups
             end: "2027-06-30"
         - github: pacoxu
           lfx_id:
-          name: Paco Xu 
+          name: Paco Xu
           company:
           email:
           term:
@@ -366,7 +366,7 @@ tags: # Technical Advisory Groups
           lfx_id:
           name: Alexander D. Kanevskiy
           company:
-          email: 
+          email:
           term:
             start: "2025-07-01"
             end: "2027-06-30"
