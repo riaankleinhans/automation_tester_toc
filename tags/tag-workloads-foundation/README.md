@@ -8,7 +8,7 @@ Containers, OS, Runtime, Virtual Machines, Serverless, Web Assembly, Batch, Sche
 
 ## Leadership
 ### Chairs
-- Danielle Tal (**[@miao0miao](https://github.com/miao0miao)**) (Term: 2025-07-01 - 2027-06-30)
+- Danielle Tal (**[@miao0miao](https://github.com/miao0miao)**) (Term: 2025-07-01 - 2026-06-30)
 - Paco Xu (**[@pacoxu](https://github.com/pacoxu)**) (Term: 2025-07-01 - 2027-06-30)
 - Yuan Tang (**[@terrytangyuan](https://github.com/terrytangyuan)**) (Term: 2025-07-01 - 2027-06-30)
 ### Tech Leads
