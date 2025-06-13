@@ -8,11 +8,13 @@ Databases, Microservices, Streaming, Messaging, API Management, Dev Frameworks.
 
 ## Leadership
 ### Chairs
-- Foo Baz Bar (**[@foo](https://github.com/foo)**), Foo Baz Bar co
-- Foo Baz Bar (**[@foo](https://github.com/foo)**), Foo Baz Bar co.
+- Daniel Oh (**[@danieloh30](https://github.com/danieloh30)**) (Term: 2025-07-01 - 2027-06-30)
+- Mauricio Salatino (**[@salaboy](https://github.com/salaboy)**) (Term: 2025-07-01 - 2026-06-30)
+- Mona Borham (**[@SwEngin](https://github.com/SwEngin)**), Mona Borham (Term: 2025-07-01 - 2027-06-30)
 ### Tech Leads
-- Foo Baz Bar (**[@foo](https://github.com/foo)**), Foo Baz Bar co.
-- Foo Baz Bar (**[@foo](https://github.com/foo)**), Foo Baz Bar co.
+- Julien Semaan (**[@julsemaan](https://github.com/julsemaan)**) (Term: 2025-07-01 - 2027-06-30)
+- Kevin Dubois (**[@kdubois](https://github.com/kdubois)**) (Term: 2025-07-01 - 2026-06-30)
+- Mélony QIN (**[@cloudmelon](https://github.com/cloudmelon)**) (Term: 2025-07-01 - 2027-06-30)
 
 ## Meetings
 - **TAG Developer Experience Meetings**: [Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/tag-developer-experience?view=list) | [Recordings](https://www.youtube.com/@CNCFTAGDeveloperExperience)
@@ -20,7 +22,7 @@ Databases, Microservices, Streaming, Messaging, API Management, Dev Frameworks.
 ## Contact
 - Slack: [Tag TAG Developer Experience Slack](https://cloud-native.slack.com/archives/https://cloud-native.slack.com/archives/C08KGCXB458)
 - [Mailing List](https://lists.cncf.io/g/cncf-tag-developer-experience/)
-- TOC Liaison: Foo Bar (**[@foobar](https://github.com/foobar)**)
+- TOC Liaison: Katie Gamanji (**[@kgamanji](https://github.com/kgamanji)**)
 
 ## Subprojects
 - **Developer Experience-sub-foo**: [Mailing List](https://lists.cncf.io/g/cncf-tag-developer-experience/)
